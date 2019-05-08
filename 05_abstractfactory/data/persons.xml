@@ -1,0 +1,42 @@
+<persons>
+    <person>
+        <name>
+            <first>Evelyne</first> 
+            <last>Chappuis</last> 
+        </name>
+        <age>42</age> 
+        <address> 
+            <street>Chemin de ma rue 11</street> 
+            <city>Ma Ville</city> 
+            <state>FR</state> 
+            <zip>1700</zip> 
+            <country>Switzerland</country>
+        </address> 
+        <phones> 
+            <phone type="mobile">+41 79 948 34 78</phone> 
+        </phones> 
+        <gender> 
+            <type>female</type> 
+        </gender> 
+    </person>
+    <person> 
+        <name>
+            <first>Thierry</first> 
+            <last>Chappuis</last> 
+        </name>
+        <age>42</age> 
+        <address> 
+            <street>Chemin de ma rue 11</street> 
+            <city>Ma Ville</city> 
+            <state>FR</state> 
+            <zip>1700</zip> 
+            <country>Switzerland</country>
+        </address> 
+        <phones> 
+            <phone type="mobile">+41 79 944 22 11</phone> 
+        </phones> 
+        <gender> 
+            <type>male</type> 
+        </gender> 
+    </person>
+</persons>
