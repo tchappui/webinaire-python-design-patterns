@@ -1,3 +1,3 @@
-# Introduction aux design patterns en python
+# Quelques design patterns en python
 
 ---
